@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio2
-with index 2 for hw 2
+# Basic-Portfolio
+Homework 1 Recommended
